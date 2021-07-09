@@ -31,3 +31,6 @@ using_dataset/dataset_headpose
 2:In docker, run top_all.sh.
   This top_all.sh run the followings.
   Data spliting, extracting image features, pca, concatenating features, classifier, and submission making files.
+
+# Copyright
+Copyright 2021 FUJITSU LIMITED.
