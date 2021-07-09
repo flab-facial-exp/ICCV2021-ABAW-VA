@@ -2,12 +2,8 @@
 
 
 # target dataset #
-#1:abstract #train and test data are not assgned but decided at random, 5 fold cross validation
-#2:artphoto #train and test data are not assigned but decided at random, 5 fold cross validation
-#3:emotionroi #train and test data are assigned.
-#4:FI_dataset #train and test data are not assigned but decided at random.
-#5:twitter_I #train and test data are not assigned but decided at random.
-#6:twitter_II #train and test data are asiggned. 5 fold cross validation
+#1:using
+#2:not use
 
 echo "shell script: top_all.sh start"
 echo "shell script: -------------------------------------------"
