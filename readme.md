@@ -38,6 +38,7 @@ Copyright 2021 FUJITSU LIMITED.
 
 # Citation
 
+```
 @misc{flab2021affect,
     title={Multi-modal Affect Analysis using standardized data within subjects in the Wild},
     author={Sachihiro Youoku, Takahisa Yamamoto, Junya Saito, Akiyoshi Uchida, Xiaoyu Mi, Osafumi Nakayama, Kentaro Murase, Ziqiang Shi, Liu Liu, Zhongling Liu},
@@ -46,3 +47,4 @@ Copyright 2021 FUJITSU LIMITED.
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+```
