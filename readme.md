@@ -1,4 +1,4 @@
-Multi-modal Affect Analysis using standardized data within subjects in the Wild
+#Multi-modal Affect Analysis using standardized data within subjects in the Wild
 
 Challenges: ICCV 2021: 2nd Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
 
@@ -14,7 +14,7 @@ Affiliation (2): Fujitsu R&D Center Co. Ltd., China
 
 The paper link: Multi-modal Affect Analysis using standardized data within subjects in the Wild
 
-### readme.txt ###
+#Necessary data
 The datasets of images and annotation files are necessary under the following directory as assgined names.
 using_dataset/annotation
 using_dataset/dataset_img
@@ -25,7 +25,7 @@ using_dataset/dataset_headpose
 
 
 
-+Procedure
+#Procedure
 1:run all_under1.sh.
   Docker build stard and run bult docker envornment.
 2:In docker, run top_all.sh.
